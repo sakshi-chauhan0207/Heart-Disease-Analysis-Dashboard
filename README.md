@@ -94,5 +94,10 @@ Aspiring Data Analyst passionate about data visualization, analytics, and solvin
 
 ---
 
+🔗 Connect With Me
+* LinkedIn: www.linkedin.com/in/sakshi-chauhan-590343340
+
+---
+
 ## ⭐ If you like this project
 Give this repository a star and connect with me on LinkedIn.
